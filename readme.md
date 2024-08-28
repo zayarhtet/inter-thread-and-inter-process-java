@@ -1,4 +1,4 @@
-# My Maven Project
+# Inter-thread and Inter-process communication in Java
 
 ## Requirements
 - Maven installed
